@@ -2,8 +2,6 @@
 
 CTF challenge proposed for a Meethack evening
 
-The ticket is
-
 Setup
 
 ```bash
